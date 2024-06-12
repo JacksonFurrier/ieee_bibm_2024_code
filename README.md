@@ -1,5 +1,4 @@
-# Python implementation of "Projection geometry invariant nonrigid motion
-correction"
+# Python implementation of "Projection geometry invariant nonrigid motion correction"
 
 Author: Adam Istvan Szucs
 
